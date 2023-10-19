@@ -6,7 +6,7 @@ This Study Guide functions as an introduction to html, css, git and javascript b
 
 Building this project helped me to practise essential skills as a  beginner in web developement.
 
-This projects gives the basic guidelines for html, css, git and javascript and it gave me the opportunity to
+This project gives the basic guidelines for html, css, git and javascript and it gave me the opportunity to
 practice the skills I have learned.
 
 During this project I learned how to:
